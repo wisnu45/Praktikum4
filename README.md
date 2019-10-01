@@ -1,1 +1,2 @@
-# webCoba
+# Praktikum4
+GitHub adalah situs yang menyediakan layanan hosting dan version control repository Git yang berbasis web. GitHub umumnya digunakan untuk menghosting pengembangan projek yang bersifat open source. GitHub menyediakan berbagai fitur seperti pengendalian akses(access control) dan beberapa fitur lain untuk pengerjaan bersama seperti bug tracking, permintaan fitur, pengelolaan tugas, dan wiki untuk setiap  projek yang sedang dikerjakan. Situs ini didirikan serta dikembangkan oleh Tom Preston- Werner, Chris Wanstrath, dan PJ Hyett.
